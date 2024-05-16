@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Descripción de la imagen de prueba](https://github.com/TomyRioss/TomyRioss/assets/170044944/dfda2f4a-c7f3-4ee3-aab4-d55678b178db)
+![BannerCV](https://github.com/TomyRioss/TomyRioss/assets/170044944/edd68a9b-5d5d-46e1-8418-3b2b4907b912)
 
 <!--
 **TomyRioss/TomyRioss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
