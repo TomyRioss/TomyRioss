@@ -3,7 +3,7 @@
 # ✨ About me;
   Soy un Desarrollador Full Stack, tengo conocimientos en tecnologías MERN, estudio Ingeniería Informática en la Universidad de Buenos Aires (UBA) y me apasiona desarrollar aplicaciones web sobre todas las cosas, actualmente tengo proyectos en curso.
 
-##🌱 Estoy aprendiendo;
+## 🌱 Estoy aprendiendo;
 Me interesa mucho aprender tanto Back End cómo Front End, mis tecnologías metas actualmente son; AWS, Python, Java y Angular, ya que puedo complementarlas a mis proyectos actuales.
 
 ## 🔭 Trabajando en;
