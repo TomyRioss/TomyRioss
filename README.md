@@ -14,5 +14,5 @@ Sí eres un programador con una idea y objetivo, buscando ayuda en tus proyectos
 
 # - 📫 Contactos;
   Puedes contactarme por mis redes sociales o mi correo electrónico: 
-  LinkedIn - [Perfil](www.linkedin.com/in/tomy-rios)
+  LinkedIn - [TomyRios](www.linkedin.com/in/tomy-rios) <br>
   Correo - tomyrios2006@gmail.com
