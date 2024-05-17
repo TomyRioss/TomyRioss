@@ -13,7 +13,7 @@ Actualmente estoy en busca activa de ofertas laborales, pero ajeno a esto, tambi
 ## 👯 Colaboración;
 Sí eres un programador con una idea y objetivo, buscando ayuda en tus proyectos, busco sumar experiencia en proyectos reales que trabajen activamente con React.js, Next.js, Angular o Node.js, para poder consolidar mis conocimientos, no dudes en consultarme mediante alguno de mis contactos.
 <br>
-# - 📫 Contactos;
+# 📫 Contactos;
   Puedes contactarme por mis redes sociales o mi correo electrónico: 
   LinkedIn - [TomyRios](www.linkedin.com/in/tomy-rios) <br>
   Correo - tomyrios2006@gmail.com
