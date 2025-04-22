@@ -1,7 +1,7 @@
 ![BannerCV](https://github.com/TomyRioss/TomyRioss/assets/170044944/edd68a9b-5d5d-46e1-8418-3b2b4907b912)
 
 # ✨ Sobre mí;
-  Soy un Desarrollador Full Stack, tengo conocimientos en tecnologías MERN, estudio Ingeniería Informática en la Universidad de Buenos Aires (UBA) y me apasiona desarrollar aplicaciones web sobre todas las cosas, actualmente tengo proyectos en curso.
+  Soy un Desarrollador Full Stack, tengo conocimientos en tecnologías MERN, estudio Ingeniería Informática en la Universidad de Buenos Aires (UBA) y me apasiona desarrollar sistemas complejos, actualmente tengo proyectos en curso.
   <br>
 
 ## 🌱 Estoy aprendiendo;
