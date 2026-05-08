@@ -1,41 +1,147 @@
-![BannerCV](https://github.com/TomyRioss/TomyRioss/assets/170044944/edd68a9b-5d5d-46e1-8418-3b2b4907b912)
+<!-- Header Section with Custom Banner -->
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-MERN%20Specialist-informational?style=flat&color=00A9E0&logo=javascript&logoColor=white" alt="Full Stack Developer">
+<img src="https://img.shields.io/badge/Based%20in-Buenos%20Aires%2C%20Argentina-success?style=flat&color=75C7FF" alt="Location">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat" alt="Status">
 
-# ✨ Sobre mí;
-  Soy un Desarrollador Full Stack, tengo conocimientos en tecnologías MERN, estudio Ingeniería Informática en la Universidad de Buenos Aires (UBA) y me apasiona desarrollar sistemas complejos, actualmente tengo proyectos en curso.
-  <br>
+---
 
-## 🌱 Estoy aprendiendo;
-Me interesa mucho aprender tanto Back End cómo Front End, mis tecnologías metas actualmente son; AWS, Python, Java y Angular, ya que puedo complementarlas a mis proyectos actuales.
-<br>
-## 💻 Mis Tecnologías y Herramientas
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-</p>
-<br>  
+# ¡Hola! 👋 Soy Tomás Ríos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyRioss&layout=compact&langs_count=10) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomyRioss&show_icons=true&count_private=true&hide=issues)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomyRioss)
-<br>
-## 👯 Colaboración;
-Sí eres un programador con una idea y objetivo buscando ayuda en tus proyectos, busco sumar experiencia en proyectos reales que trabajen activamente con React.js, Next.js, Angular o Node.js, para poder consolidar mis conocimientos, no dudes en consultarme mediante alguno de mis contactos.
-<br>
-# 📫 Contactos;
-  Puedes contactarme por mis redes sociales o mi correo electrónico: <br>
-  LinkedIn - [TomyRios](www.linkedin.com/in/tomy-rios) <br>
-  Correo - tomyrios2006@gmail.com
+### 🚀 **Full-Stack Developer** | **MERN Stack Specialist** | **UBA Engineering Student**
+
+Soy un desarrollador apasionado por crear **soluciones web escalables y performantes** utilizando tecnologías modernas. Con experiencia sólida en **MERN Stack** (MongoDB, Express, React, Node.js), me especializo en arquitectura de sistemas complejos y código limpio.
+
+**Actualmente estudio Ingeniería Informática en la Universidad de Buenos Aires** mientras desarrollo proyectos reales con usuarios. Mi objetivo es seguir creciendo como ingeniero y contribuir a proyectos que tengan impacto real.
+
+---
+
+## 💡 ¿Qué me diferencia?
+
+- ✨ **Calidad de código**: Desarrollo limpio, testeable y documentado
+- 🔄 **Full-Stack versátil**: Dominio en frontend, backend y DevOps
+- 📚 **Mentalidad de aprendizaje**: Siempre explorando nuevas tecnologías
+- 💼 **Experiencia práctica**: Proyectos en producción con usuarios reales
+- 🎯 **Orientado a resultados**: Entrego soluciones que resuelven problemas
+
+---
+
+## 🛠️ Mi Stack Técnico
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyRioss&layout=compact&theme=dark&hide_border=true)](https://github.com/TomyRioss)
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TomyRioss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/TomyRioss)
+
+</div>
+
+---
+
+## 🎯 Lo que estoy aprendiendo ahora
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Back%20End%20Architecture-FF6B6B" alt="Backend">
+      <p><strong>Arquitectura escalable</strong><br>Patrones de diseño avanzados</p>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Cloud%20Computing-4ECDC4" alt="Cloud">
+      <p><strong>AWS & DevOps</strong><br>Deployment y CI/CD</p>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Testing%20%26%20QA-FFE66D" alt="Testing">
+      <p><strong>Testing Avanzado</strong><br>TDD y E2E Testing</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Proyectos Destacados
+
+> 📌 Estoy trabajando en proyectos reales. ¡Próximamente compartiré mis repositorios destacados! 
+
+Algunos de mis repositorios importantes:
+- 🔧 **[Mis Repositorios](https://github.com/TomyRioss?tab=repositories)** - Explora mi código
+- ⭐ **[Proyectos Favoritos](https://github.com/TomyRioss?tab=stars)** - Lo mejor que he encontrado
+
+---
+
+## 🤝 Colaboración & Oportunidades
+
+👀 **Actualmente abierto a:**
+- ✅ Proyectos colaborativos en **React/Node.js**
+- ✅ Contribuciones a **open-source** de impacto
+- ✅ Code reviews y mentoría
+- ✅ Oportunidades laborales **remote** | **hybrid** en MERN Stack
+
+**Si tienes una idea emocionante o proyecto interesante, ¡no dudes en contactarme!**
+
+---
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomyrios2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomy-rios)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomyRioss)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tomyrioss)
+
+**📍 Buenos Aires, Argentina | 🕐 UTC-3**
+
+</div>
+
+---
+
+## ⚡ Dato Curioso
+
+```javascript
+const aboutMe = {
+  name: "Tomás Ríos",
+  role: "Full-Stack Developer",
+  passion: "Crear soluciones que importan",
+  motto: "Code today, innovate tomorrow",
+  favoriteLanguage: "JavaScript ❤️"
+};
+```
+
+---
+
+<div align="center">
+
+**⭐ Si mis proyectos te interesan, ¡no olvides dejar una estrella!**
+
+[![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=TomyRioss.TomyRioss)](https://github.com/TomyRioss)
+
+</div>
