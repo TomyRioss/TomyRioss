@@ -52,20 +52,6 @@ Soy un desarrollador apasionado por crear **soluciones web escalables y performa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
----
-
-## 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyRioss&layout=compact&theme=dark&hide_border=true)](https://github.com/TomyRioss)
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TomyRioss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/TomyRioss)
-
-</div>
-
----
-
 ## 🎯 Lo que estoy aprendiendo ahora
 
 <table>
