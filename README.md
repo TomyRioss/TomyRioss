@@ -122,21 +122,6 @@ Algunos de mis repositorios importantes:
 
 </div>
 
----
-
-## ⚡ Dato Curioso
-
-```javascript
-const aboutMe = {
-  name: "Tomás Ríos",
-  role: "Full-Stack Developer",
-  passion: "Crear soluciones que importan",
-  motto: "Code today, innovate tomorrow",
-  favoriteLanguage: "JavaScript ❤️"
-};
-```
-
----
 
 <div align="center">
 
